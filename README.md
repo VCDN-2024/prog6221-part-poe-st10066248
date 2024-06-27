@@ -2,6 +2,10 @@
 
 RecipeApp is a user-friendly application built with C# and .NET, designed to help you manage and organize your recipes efficiently. Whether you're a novice cook or a seasoned chef, RecipeApp provides a seamless way to store, categorize, and search for recipes, track ingredients, and keep detailed instructions all in one place.
 
+## Changes made as per lecturers feedback:
+- The ReadMe file was overhauled,
+- The code structure was edited to be easier to read
+  
 ## Features
 
 - **Recipe Management**: Add, edit, and delete recipes easily. Each recipe includes essential details like the name, description, and category.
